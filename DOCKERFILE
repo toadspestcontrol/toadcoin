@@ -27,6 +27,9 @@ RUN make
 RUN make install
 
 #open service port
-EXPOSE 9696 9695 19696 29696
+EXPOSE 9696
+EXPOSE 9695
+EXPOSE 19696
+EXPOSE 29696
 
 CMD ["toadcoind", "--conf=/toadcoin/toadcoin.conf", "--printtoconsole"]
