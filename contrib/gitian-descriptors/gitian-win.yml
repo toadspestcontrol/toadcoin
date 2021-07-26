@@ -23,7 +23,7 @@ packages:
 - "python"
 - "rename"
 remotes:
-- "url": "https://github.com/toadcoin-project/toadcoin.git"
+- "url": "https://github.com/toadspestcontrol/toadcoin.git"
   "dir": "toadcoin"
 files: []
 script: |

@@ -22,7 +22,7 @@ libtool
 pkg-config
 python37
 
-git clone https://github.com/toadcoin-project/toadcoin.git
+git clone https://github.com/toadspestcontrol/toadcoin.git
 ```
 
 See [dependencies.md](dependencies.md) for a complete overview.

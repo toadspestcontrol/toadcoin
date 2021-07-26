@@ -25,7 +25,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/toadcoin-project/toadcoin/tags) are created
+completely stable. [Tags](https://github.com/toadspestcontrol/toadcoin/tags) are created
 regularly to indicate new official, stable release versions of Litecoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)

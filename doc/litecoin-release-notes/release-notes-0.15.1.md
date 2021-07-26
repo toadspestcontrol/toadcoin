@@ -7,7 +7,7 @@ performance improvements, as well as updated translations.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/toadcoin-project/toadcoin/issues>
+  <https://github.com/toadspestcontrol/toadcoin/issues>
 
 To receive security and update notifications, please subscribe to:
 

@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/toadcoin-project/toadcoin-detached-sigs.git"
+- "url": "https://github.com/toadspestcontrol/toadcoin-detached-sigs.git"
   "dir": "signature"
 files:
 - "toadcoin-osx-unsigned.tar.gz"

@@ -8,7 +8,7 @@ recommended to upgrade to this version as soon as possible.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/toadcoin-project/toadcoin/issues>
+  <https://github.com/toadspestcontrol/toadcoin/issues>
 
 Upgrading and downgrading
 =========================

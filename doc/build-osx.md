@@ -43,7 +43,7 @@ Build Toadcoin Core
 
 1. Clone the Toadcoin Core source code:
 
-        git clone https://github.com/toadcoin-project/toadcoin
+        git clone https://github.com/toadspestcontrol/toadcoin
         cd toadcoin
 
 2.  Build Toadcoin Core:

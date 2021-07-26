@@ -555,7 +555,7 @@ void SetupServerArgs()
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/toadcoin-project/toadcoin>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/toadspestcontrol/toadcoin>";
     const std::string URL_WEBSITE = "<https://toadcoin.org>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2011, COPYRIGHT_YEAR) + " ") + "\n" +
